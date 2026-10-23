@@ -40,7 +40,7 @@ Get in touch
 </tr>
 <tr>
 <td align="center" valign="middle" colspan="2">
-<a href="https://wa.me/233532524155"><img height="34" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp"></a>
+<a href="https://wa.me/233532524115"><img height="34" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp"></a>
 <br>
 Chat with me
 </td>

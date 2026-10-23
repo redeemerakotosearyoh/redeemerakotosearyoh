@@ -42,4 +42,8 @@ Open to collaborations and new opportunities.<br>
 <p>
 <img src="https://streak-stats.demolab.com?user=redeemerakotosearyoh&background=0d1117&border=D29922&stroke=D29922&ring=D29922&fire=D29922&currStreakNum=D29922&sideNums=D29922&currStreakLabel=D29922&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak">
 </p>
+<h3>Achievements</h3>
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=redeemerakotosearyoh&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies">
+</p>
 </div>

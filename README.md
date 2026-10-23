@@ -11,7 +11,7 @@
 <h3>About</h3>
 <p>I build software and create content about technology, sharing what I learn along the way.<br>
 Open to collaborations and new opportunities.<br>
-<sub>Web development &nbsp;|&nbsp; Software engineering &nbsp;|&nbsp; Technology content creation</sub></p>
+<sub>Web development, software engineering and technology content creation</sub></p>
 <h3>Skills</h3>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -41,9 +41,5 @@ Open to collaborations and new opportunities.<br>
 </p>
 <p>
 <img src="https://streak-stats.demolab.com?user=redeemerakotosearyoh&background=0d1117&border=D29922&stroke=D29922&ring=D29922&fire=D29922&currStreakNum=D29922&sideNums=D29922&currStreakLabel=D29922&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak">
-</p>
-<h3>Achievements</h3>
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=redeemerakotosearyoh&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies">
 </p>
 </div>
